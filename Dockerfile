@@ -15,6 +15,7 @@ RUN apt-get update && \
         libc6-i386 \
         libc6-dev-i386 \
         make \
+        minicom \
         python3 \
         python3-pip \
         qemu \
